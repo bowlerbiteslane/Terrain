@@ -131,10 +131,10 @@
      <None Include="Assets\Medieval Environment\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_BloomAndFlares\BlurAndFlares.shader" />
      <None Include="Assets\Medieval Environment\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_BloomAndFlares\BlendForBloom.shader" />
  <Reference Include="Assembly-UnityScript-firstpass">
- <HintPath>C:/Users/Ethan/Desktop/Personal/Unity Projects/Terrain/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll</HintPath>
+ <HintPath>C:/Users/Ethan/Desktop/Sheridan Winter 2015/INFO31322 - CST Capstone Research Prep/Terrain/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll</HintPath>
  </Reference>
  <Reference Include="Assembly-UnityScript">
- <HintPath>C:/Users/Ethan/Desktop/Personal/Unity Projects/Terrain/Library/ScriptAssemblies/Assembly-UnityScript.dll</HintPath>
+ <HintPath>C:/Users/Ethan/Desktop/Sheridan Winter 2015/INFO31322 - CST Capstone Research Prep/Terrain/Library/ScriptAssemblies/Assembly-UnityScript.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.1/UnityEngine.UI.dll</HintPath>
